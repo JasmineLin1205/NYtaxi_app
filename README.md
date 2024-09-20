@@ -30,3 +30,8 @@ streamlit網站架構圖
 ## 油資計算
 <img src="https://github.com/JasmineLin1205/NYtaxi_app-Project/blob/aa127e6c36d595f3a1de3d223909101be505a255/picture/%E6%B2%B9%E8%B3%87%E8%A8%88%E7%AE%97.png" alt="page=12" width="600"/>
 
+## 人流聚集地
+<img src="https://github.com/JasmineLin1205/NYtaxi_app-Project/blob/48b8810c42f18991eebbb5ba7cf3f499e60631f2/picture/%E4%BA%BA%E6%B5%81%E8%81%9A%E9%9B%86%E5%9C%B0.png" alt="page=13" width="600"/>
+<img src="https://github.com/JasmineLin1205/NYtaxi_app-Project/blob/48b8810c42f18991eebbb5ba7cf3f499e60631f2/picture/%E4%BA%BA%E6%B5%81%E8%81%9A%E9%9B%86%E5%9C%B0%E6%A8%99%E9%BB%9E%E5%9C%96.png" alt="page=14" width="600"/>
+<img src="https://github.com/JasmineLin1205/NYtaxi_app-Project/blob/48b8810c42f18991eebbb5ba7cf3f499e60631f2/picture/%E9%99%84%E8%BF%91%E8%A7%80%E5%85%89%E6%99%AF%E9%BB%9E.png" alt="page=15" width="600"/>
+
